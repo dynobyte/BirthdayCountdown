@@ -1,5 +1,4 @@
-{
-  "name": "react-bootstrap",
+{ "name": "react-bootstrap",
   "version": "1.0.0",
   "description": "Basic skeleton codebase for React with Bootstrap applications.",
   "scripts": {
